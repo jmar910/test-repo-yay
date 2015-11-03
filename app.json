@@ -1,0 +1,9 @@
+{
+  "name":"test-repo-yay",
+  "scripts":{},
+  "env":{},
+  "addons":[
+    "newrelic",
+    "heroku-postgresql"
+  ]
+}
