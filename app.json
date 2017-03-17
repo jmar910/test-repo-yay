@@ -12,6 +12,13 @@
       "options": {
         "version": "9.5"
       }
+    },
+    
+    {
+      "plan": "heroku-postgresql:standard-0",
+      "options": {
+        "version": "9.5"
+      }
     }
   ],
   "buildpacks": [
